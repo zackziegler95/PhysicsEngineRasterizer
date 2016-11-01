@@ -1,0 +1,8 @@
+TODO:
+
+Work on optimizing rendering (Think about something other than swing?) (Try making a movie?)
+Make a more robust center calculation from triangles, for rectangles
+Optimize getPolys by not recalculating normals
+Optimize lighting by introducing a cutoff distance (or dist squared)
+
+See if it is faster to only clip entire polygons or to clip verticies
